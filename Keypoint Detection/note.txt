@@ -1,0 +1,3 @@
+This code can be adapted for all types of keypoints.
+Make sure to define the correct dataset paths before running.
+Please use the exact parameter values and data augmentation techniques specified in the referenced paper when running or modifying this code.
