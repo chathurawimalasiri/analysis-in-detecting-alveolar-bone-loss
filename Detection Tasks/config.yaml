@@ -1,0 +1,8 @@
+path: 
+train: /storage/scratch1/e18-4yp-bone-loss/shamod/YOLO-detection/detect/images/train
+val: /storage/scratch1/e18-4yp-bone-loss/shamod/YOLO-detection/detect/images/val
+
+
+names:
+  0: single
+  1: double

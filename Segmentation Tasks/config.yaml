@@ -1,0 +1,10 @@
+
+path: 
+train: /storage/scratch1/e18-4yp-bone-loss/shamod/content/Bone2/images/train
+val: /storage/scratch1/e18-4yp-bone-loss/shamod/content/Bone2/images/val
+
+
+nc : 1
+names: ['bone'] #use names:['tooth'] for tooth detection
+
+
